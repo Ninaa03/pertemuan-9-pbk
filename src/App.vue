@@ -3,8 +3,8 @@ import ChildComponent from './components/ChildComponent.vue'
 import { ref, computed } from 'vue'
 
 const daftarMatkul = [
-  { nama: 'PEMROGRAMAN BERBASIS KOMPONEN', dosen: 'M RIZKY FADHILAH, ST,.MKom' },
-  { nama: 'ELEKTRONIKA DIGITAL', dosen: 'DRr.EVIZAL, ST.,Meng' },
+  { nama: 'PEMROGRAMAN BERBASIS KOMPONEN', dosen: 'M RIZKY FADHILAH, ST,.M.Kom' },
+  { nama: 'ELEKTRONIKA DIGITAL', dosen: 'Dr.EVIZAL, ST.,M.Eng' },
   { nama: 'PEMROGRAMAN BERORIENTASI OBJEK', dosen: 'AKMAR EFENDI, S.Kom., M.kom' }
 ]
 
